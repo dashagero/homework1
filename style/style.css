@@ -1,0 +1,29 @@
+.colortext1 {
+    color: greenyellow;
+}
+.colortext2{
+    color: black;
+    font-weight: bolder;
+}
+.first{
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color: indianred;
+}
+.second {
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large;
+color: palevioletred;
+}
+.third{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: smaller;
+color: purple;
+}
+.marker3{
+    list-style: square; 
+}
+.marker2 {
+    list-style: none;
+    text-indent: -1em;
+}
